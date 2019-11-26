@@ -40,6 +40,6 @@ OUTPUT 6 S
 **DEIXE O ARQUIVO DO CIRCUITO EM DIRETÓRIOS DESTE TIPO:** Exemplo: *C:\Users\Rafael\circuitologico.txt*  
 **Mas para evitar qualquer tipo de transtorno, crie um arquivo do tipo texto na própria pasta que contém o programa, que dessa forma você não precisará digitar todo o caminho do arquivo, e sim apenas o nome dele.**  
 
-9. Como foi deixado alguns exemplos, e os exemplos estão na mesma pasta que o programa, não foi preciso digitar todo o caminho do arquivo. E, após digitar o nome do arquivo, dê enter, e o programa dará o resultado final, como mostrado abaixo:    
+9. Como foi deixado alguns exemplos, e os exemplos estão na mesma pasta que o programa, não é preciso digitar todo o caminho do arquivo. E, após digitar o nome do arquivo, dê enter, e o programa dará o resultado final, como mostrado abaixo:    
 ![alt-text](https://github.com/joaorafaelcfs/projetoalgoritmo/blob/master/figuras/Tutorial4.PNG)
 - **Figura 5:** *Resultado final* 
