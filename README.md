@@ -3,12 +3,13 @@
 
 ##  ------------------------- MANUAL DE UTILIZAÇÃO ----------------------------
 **Veja a seguir como utilizar o programa**
-1. Instale um compilador C de sua preferência (Dev - C ++, Code Blocks, etc);
-2. 
- [Clique aqui](https://www.google.com "Google's Homepage")
-
-
-
+1. Antes de tudo, você tem que ter um compilador C. Caso não tenha, instale. Por exemplo: Dev - C ++;
+2. Vá para a página principal deste repositório ([Clique aqui](https://github.com/joaorafaelcfs/projetoalgoritmo));
+3. Em seguida, clique em "Clone or Download" :  
+![alt-text](https://github.com/joaorafaelcfs/projetoalgoritmo/blob/master/figuras/Tutorial1.PNG)
+4. Clique em "Download ZIP" e espere o download do ZIP ser concluído.    
+![alt-text](https://github.com/joaorafaelcfs/projetoalgoritmo/blob/master/figuras/Tutorial2.PNG)
+5. Agora, vá até a pasta onde foi feita o download, descompacte o zip, e abra a pasta descompactada. Lá terá um arquivo "CalculadoraLogica.c". Este é o programa da Calculadora Lógica. Acompanhado desse programa, conterá um exemplo de um circuito lógico e das especificações em .txt, como este a seguir: 
 
 ![alt-text](https://github.com/joaorafaelcfs/projetoalgoritmo/blob/master/figuras/Esquema1.PNG)
  - **Figura 1:** *Exemplo de circuito lógico*  
@@ -25,3 +26,9 @@ INPUT 2 B
 INPUT 3 C  
 OUTPUT 6 S  
  
+6. O programa da calculadora, irá lê o arquivo .txt e irá mostrar o resultado da saída.
+7. Ao abrir o programa, compile ele, e digite o nome do arquivo .txt. Entretanto, se desejar criar um próprio Circuito Lógico, e colocar as especificações em outro arquivo .txt, tenha em mente o diretório aonde foi criado, pois precisará digitar o diretório por completo no programa. Porém, preste bem atenção!!!   
+**É importante que o diretório do arquivo não contenha nem espaços e nem acentos.**  
+**EVITE DIRETÓRIOS DO TIPO:** *C:\Users\Rafael\circuito logico.txt* ou *C:\Users\Joao Rafael\circuito.txt*  
+**DEIXE O ARQUIVO DO CIRCUITO EM DIRETÓRIOS DESTE TIPO:** Exemplo: *C:\Users\Rafael\circuitologico.txt*  
+**Mas para evitar qualquer tipo de transtorno, crie um arquivo do tipo texto na própria pasta que contém o programa, que dessa forma você não precisará digitar todo o caminho do arquivo, e sim apenas o nome dele.**  
