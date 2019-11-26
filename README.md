@@ -5,10 +5,12 @@
 **Veja a seguir como utilizar o programa**
 1. Antes de tudo, você tem que ter um compilador C. Caso não tenha, instale. Por exemplo: Dev - C ++;
 2. Vá para a página principal deste repositório ([Clique aqui](https://github.com/joaorafaelcfs/projetoalgoritmo));
-3. Em seguida, clique em "Clone or Download" :  
-![alt-text](https://github.com/joaorafaelcfs/projetoalgoritmo/blob/master/figuras/Tutorial1.PNG)
-4. Clique em "Download ZIP" e espere o download do ZIP ser concluído.    
-![alt-text](https://github.com/joaorafaelcfs/projetoalgoritmo/blob/master/figuras/Tutorial2.PNG)
+3. Em seguida, clique em "Clone or Download" :    
+![alt-text](https://github.com/joaorafaelcfs/projetoalgoritmo/blob/master/figuras/Tutorial1.PNG)    
+- **Figura 1:** *Clique em Clone Download*  
+4. Clique em "Download ZIP" e espere o download do ZIP ser concluído.      
+![alt-text](https://github.com/joaorafaelcfs/projetoalgoritmo/blob/master/figuras/Tutorial2.PNG)  
+- **Figura 2:** *Clique em Download ZIP*  
 5. Agora, vá até a pasta onde foi feita o download, descompacte o zip, e abra a pasta descompactada. Lá terá um arquivo "CalculadoraLogica.c". Este é o programa da Calculadora Lógica. Acompanhado desse programa, conterá um exemplo de um circuito lógico e das especificações em .txt, como este a seguir: 
 
 ![alt-text](https://github.com/joaorafaelcfs/projetoalgoritmo/blob/master/figuras/Esquema1.PNG)
