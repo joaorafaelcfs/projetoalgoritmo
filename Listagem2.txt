@@ -1,0 +1,5 @@
+CIRCUIT Expressao logica
+AND 1 2 3
+INPUT 1 A
+INPUT 2 B
+OUTPUT 3 S
