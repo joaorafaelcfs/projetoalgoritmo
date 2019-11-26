@@ -7,7 +7,7 @@
 2. Vá para a página principal deste repositório ([Clique aqui](https://github.com/joaorafaelcfs/projetoalgoritmo));
 3. Em seguida, clique em "Clone or Download" :    
 ![alt-text](https://github.com/joaorafaelcfs/projetoalgoritmo/blob/master/figuras/Tutorial1.PNG)    
-- **Figura 1:** *Clique em Clone Download*  
+- **Figura 1:** *Clique em Clone or Download*  
 4. Clique em "Download ZIP" e espere o download do ZIP ser concluído.      
 ![alt-text](https://github.com/joaorafaelcfs/projetoalgoritmo/blob/master/figuras/Tutorial2.PNG)  
 - **Figura 2:** *Clique em Download ZIP*  
