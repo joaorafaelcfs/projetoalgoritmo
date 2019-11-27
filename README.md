@@ -27,7 +27,7 @@ INPUT 1 A
 INPUT 2 B  
 INPUT 3 C  
 OUTPUT 6 S    
-- - O programa da calculadora, irá lê o arquivo .txt e irá mostrar o resultado da saída.  
+**O programa da calculadora, irá lê o arquivo .txt e irá mostrar o resultado da saída.**  
   
 6. Ao abrir o programa, compile ele.   
 ![alt-text](https://github.com/joaorafaelcfs/projetoalgoritmo/blob/master/figuras/Tutorial3.PNG)
